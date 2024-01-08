@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "769273831183",
+    "project_id": "connections-test-b10de",
+    "storage_bucket": "connections-test-b10de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769273831183:android:7b7d9986ecdf0cd936687a",
+        "android_client_info": {
+          "package_name": "com.example.chatty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnrlqLHGqwaVaMwrNSgdqKaYO-HBwezk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
